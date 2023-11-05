@@ -8,6 +8,8 @@
 // @compatible   safari
 // @connect      youtube.com
 // @grant        GM_addStyle
+// @downloadURL  https://raw.githubusercontent.com/Serendipti/skip/main/safari_userscript.js
+// @updateURL    https://raw.githubusercontent.com/Serendipti/skip/main/safari_userscript.js
 // @run-at       document-end
 // ==/UserScript==
 
