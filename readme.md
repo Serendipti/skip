@@ -10,4 +10,4 @@ Safari variant of JS by oddlyspaced's near-instant YouTube ad skip. To be used v
 
 This will work on iOS too. Just save it to your iCloud files or Airdrop it to your iPhone.
 
-PSA (Nov. 10, 2023): YouTube is now treating all content blockers via extensions as "ad-block", including those attempting to block cookies and trackers. If you get a threatening pop-up detecting and "ad-blocker" it is not this userscript. You will have to disable all content blockers for youtube.com to avoid those pop-ups.
+PSA (Nov. 10, 2023): YouTube is now treating all content blockers via extensions as "ad-block", including those attempting to block cookies and trackers. If you get a threatening pop-up detecting an "ad-blocker" it is not this userscript (at least for now). You will have to disable all content blockers for youtube.com to avoid those pop-ups.
